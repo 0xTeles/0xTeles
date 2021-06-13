@@ -4,5 +4,5 @@ My name is Teles and I like web hacking & ctf's. Here you find some information 
 - 🌱 I’m currently learning forensics 
 - 💬 Ask me about bug bounty and web hacking
 - 📫 How to reach me: [Twitter](https://twitter.com/0xTeles) or [Telegram](https://t.me/t3l3s)
-- 😄 Pronouns: BTC/Bitcoin
+- 😄 Pronouns: XMR/Monero
 - ⚡ Fun fact: I got my first CVE at 16 years old.
